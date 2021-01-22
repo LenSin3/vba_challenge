@@ -26,19 +26,15 @@ Stock market data of New York Stock Exchange in a workboodk laballed "Multiple_y
  
  Two vb scripts are added with codes that automate the above tasks. Details of the files are seen in the files section.
 
-### Files
+### Results
 
-* [Test Data](alphabetical_testing.xlsx) - Used to develop and test vb scripts.
+* Test sheet results
 
-* [Stock Data](Multiple_year_stock_data.xlsx) - Used to run completed vb scripts to generate final report.
+![Screen shot of results on test sheet without the bonus](stock_market_analysis/singleyr.png)
 
-* [Test vbscript](alphabet_test_1.vbscript) - Developed to run in Test Data.
+* Multi year results
 
-* [Main vbscript](alphabetical_testing_1.vbscript) - Developed to run in both Test Data and Stock Data.
-
-* [Image Test Data] - Screen shot of results on test sheet without the bonus.
-
-*[Image Main Data] - Screen shot of final results of all tasks on Multiple_year_stock_data sheet.
+![Screen shot of results on test sheet without the bonus](stock_market_analysis/multiyr.png)
 
 
 
